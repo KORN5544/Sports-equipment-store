@@ -9,7 +9,7 @@ const Home = () => {
       {/* Hero Section */}
       <section
         className="bg-cover bg-center min-h-screen flex flex-col py-8"
-        style={{ backgroundImage: "url('https://wallpaperaccess.com/full/1103828.jpg')" }}
+        style={{ backgroundImage: "url('/picture/bg.jpg')" }}
       >
         <div className="bg-opacity-50 w-full h-full flex items-center">
           <div className="container mx-auto px-4 text-white">
